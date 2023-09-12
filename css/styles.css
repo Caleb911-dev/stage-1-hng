@@ -1,0 +1,25 @@
+body{
+    background:cornsilk;
+}
+#container{
+    padding: 3% 10%;
+    text-align: center;
+}
+
+img {
+    height: 400px;
+    width: 400px;
+}
+
+button{
+    font-size: 10px;
+    padding: 10px 20px;
+    background-color: navajowhite;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: white;
+}
+a{
+    font-size: 20px;
+}
